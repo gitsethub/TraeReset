@@ -89,6 +89,7 @@ python trae_unlock.py
 | 平台 | 路径 |
 |------|------|
 | Windows | `%APPDATA%\Trae` |
+| macOS | `~/Library/Application Support/Trae/machineid` |
 | macOS | `~/Library/Application Support/Trae/User/globalStorage/storage.json` |
 | macOS | `~/Library/Application Support/Trae/machineid` |
 | Linux | `~/.config/Trae` |
